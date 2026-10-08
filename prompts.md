@@ -203,3 +203,23 @@ manda y sube a mi repo [https://github.com/lushiban/Programacion_asistida_de_app
 ## Prompt 7 — Continuación
 
 sigue
+
+## Prompt 8 — Archivo ZIP
+
+que cambiaste en el zip?
+
+## Prompt 9 — Carpeta en GitHub
+
+en gihub no aparece la carpeta de la prueba
+
+## Prompt 10 — Rama
+
+solo queda en una branch?
+
+## Prompt 11 — Entrega
+
+y esta listo para la entrega?
+
+## Prompt 12 — Copia al repositorio dedicado
+
+yaya, haz una copia del repo o de la branch en [https://github.com/lushiban/prueba1-reservas-tapia](https://github.com/lushiban/prueba1-reservas-tapia)
